@@ -10,10 +10,10 @@
 -- CONFIG: Ganti link raw GitHub kamu di sini
 -- ═══════════════════════════════════════════════════════════════════
 local RAW_LINKS = {
-    Database     = "https://raw.githubusercontent.com/NOVABOTV1F/ZUZU_HUB-GAG-_OPTIMAL-scrpt-grow-a-garden/main/ZUZU_DATABASE.lua",
-    Framework    = "https://raw.githubusercontent.com/NOVABOTV1F/ZUZU_HUB-GAG-_OPTIMAL-scrpt-grow-a-garden/main/ZUZU_FRAMEWORK.lua",
-    GameReader   = "https://raw.githubusercontent.com/NOVABOTV1F/ZUZU_HUB-GAG-_OPTIMAL-scrpt-grow-a-garden/main/ZUZU_GAME_READER.lua",
-    MainUI       = "https://raw.githubusercontent.com/NOVABOTV1F/ZUZU_HUB-GAG-_OPTIMAL-scrpt-grow-a-garden/main/ZUZU_MAIN.lua",
+    Database     = "https://raw.githubusercontent.com/NOVABOTV1F/ZUZU_HUB-gmail.com_fake.ZXYX/main/ZUZU_DATABASE.lua",
+    Framework    = "https://raw.githubusercontent.com/NOVABOTV1F/ZUZU_HUB-gmail.com_fake.ZXYX/main/ZUZU_FRAMEWORK.lua",
+    GameReader   = "https://raw.githubusercontent.com/NOVABOTV1F/ZUZU_HUB-gmail.com_fake.ZXYX/main/ZUZU_GAME_READER.lua",
+    MainUI       = "https://raw.githubusercontent.com/NOVABOTV1F/ZUZU_HUB-gmail.com_fake.ZXYX/main/ZUZU_MAIN.lua",
 }
 
 -- ═══════════════════════════════════════════════════════════════════
